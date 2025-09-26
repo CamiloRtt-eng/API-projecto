@@ -11,46 +11,57 @@ LOGO_PATH = 'C:/Users/b12s306/Desktop/API projecto/logo_fiscalia.png'
 DENUNCIAS_PATH = 'denuncias_registradas.csv'
 
 def get_image_base64(path):
+    import os
+    if not os.path.isfile(path):
+        return None
     with open(path, "rb") as img_file:
+        import base64
         return base64.b64encode(img_file.read()).decode()
 
 st.set_page_config(page_title='Sistema Judicial SPOA', page_icon='⚖️', layout='centered')
 
 logo_base64 = get_image_base64(LOGO_PATH)
 
-st.markdown(f"""
+st.markdown("""
 <style>
-    .titulo-logo {{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 32px;
-        margin-bottom: 24px;
-    }}
-    .titulo-logo img {{
-        height: 80px;
-    }}
-    .titulo-logo-text {{
-        font-size: 2.2rem;
-        font-weight: bold;
-        color: #1a237e;
-        text-align: center;
-        background: rgba(255,255,255,0.7);
-        border-radius: 12px;
-        padding: 8px 24px;
-    }}
+.titulo-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    margin-bottom: 24px;
+}
+.titulo-logo img {
+    height: 80px;
+}
+.titulo-logo-text {
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: #1a237e;
+    text-align: center;
+}
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown(f"""
-<div class="titulo-logo">
-    <img src="data:image/png;base64,{logo_base64}" alt="Logo Fiscalía" />
-    <div class="titulo-logo-text">
-        ⚖️ Sistema Judicial SPOA<br>
-        <span style='font-size:1.2rem;font-weight:normal;'>Bienvenido al sistema de gestión de denuncias judiciales</span>
+if logo_base64:
+    st.markdown(f"""
+    <div class="titulo-logo">
+        <img src="data:image/png;base64,{logo_base64}" alt="Logo Fiscalía" />
+        <div class="titulo-logo-text">
+            ⚖️ Sistema Judicial SPOA<br>
+            <span style='font-size:1.2rem;font-weight:normal;'>Bienvenido al sistema de gestión de denuncias judiciales</span>
+        </div>
     </div>
-</div>
-""", unsafe_allow_html=True)
+    """, unsafe_allow_html=True)
+else:
+    st.markdown("""
+    <div class="titulo-logo">
+        <div class="titulo-logo-text">
+            ⚖️ Sistema Judicial SPOA<br>
+            <span style='font-size:1.2rem;font-weight:normal;'>Bienvenido al sistema de gestión de denuncias judiciales</span>
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
 
 # Elimina los estilos y el contenedor con reborde
 
