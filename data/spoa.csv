@@ -1,0 +1,51 @@
+id_caso,noticia,tipo_delito,pena_establecida,limite_meses_dictar_pena
+SPOA00001,"Denuncia formal presentada el 10 de septiembre de 2025 en Bogotá por secuestro. La víctima reporta haber sido retenida ilegalmente por un grupo delincuencial en el barrio San Cristóbal. Fiscalía coordina investigación con Policía Judicial para identificación y captura.",Secuestro,"20 a 60 años de prisión",36
+SPOA00002,"Operativo policial conjunto realizado el 15 de agosto de 2025 en Medellín. Captura en flagrancia de presunto implicado en hechos de cohecho tras hallazgos de documentos y testimonios clave. Detenido permanece a disposición judicial.",Cohecho,"4 a 8 años de prisión",24
+SPOA00003,"Audiencia de imputación llevada a cabo el 20 de julio de 2025 en Cali para el caso de amenazas contra testigos. Se dictó medida de detención preventiva, con base en evidencias audiovisuales presentadas durante la diligencia.",Amenazas,"1 a 4 años de prisión",18
+SPOA00004,"Fiscalía formaliza cargos el 5 de septiembre de 2025 en Cartagena contra presunto responsable de extorsión. Investigación incluyó allanamientos y seguimientos telefónicos que sustentan la acusación.",Extorsión,"8 a 16 años de prisión",36
+SPOA00005,"Allanamiento a vivienda ejecutado el 12 de octubre de 2025 en Barranquilla en investigación de receptación de bienes hurtados. Policía Judicial encontró objetos de procedencia ilícita que serán peritados.",Receptación,"3 a 6 años de prisión",24
+SPOA00006,"Operativo de recuperación de bienes realizado el 1 de noviembre de 2025 en Bucaramanga. Bajo investigación por hurto en comercio local, con testimonios de víctimas y pruebas forenses.",Hurto,"1 a 4 años de prisión",24
+SPOA00007,"Imputación formal de cargos el 25 de septiembre de 2025 en Pereira por lesiones personales. Víctima presentó lesiones graves causadas durante un altercado registrado en la vía pública.",Lesiones personales,"1 a 5 años de prisión",24
+SPOA00008,"Incautación de evidencia durante operativo en Soledad el 30 de agosto de 2025 por violencia intrafamiliar. Se detuvo al presunto agresor, y la víctima recibió medidas de protección judicial.",Violencia intrafamiliar,"2 a 6 años de prisión",24
+SPOA00009,"Acción policial el 15 de diciembre de 2024 en Ibagué por presunta falsedad documental en contratos de compraventa. Se recolectaron documentos y testimonios para continuar investigación.",Falsedad documental,"2 a 5 años de prisión",24
+SPOA00010,"Procedimiento judicial en Montería con judicialización de presunto porte ilegal de armas el 21 de junio de 2025 tras decomiso de armas en allanamiento.",Porte ilegal de armas,"3 a 6 años de prisión",24
+SPOA00011,"Denuncia por estafa presentada el 10 de enero de 2025 en Neiva involucrando presunta oferta fraudulenta de servicios financieros. Fiscalía avanza en recopilación de pruebas electrónicas.",Estafa,"3 a 6 años de prisión",24
+SPOA00012,"Imputación por abuso de confianza el 5 de marzo de 2025 en Manizales contra empleado acusado de apropiación indebida de recursos de empresa.",Abuso de confianza,"2 a 5 años de prisión",24
+SPOA00013,"Investigación iniciada el 17 de febrero de 2025 en Pasto por falsedad documental en trámite de licencias. Fiscalía recaba declaraciones y documentos oficiales.",Falsedad documental,"2 a 5 años de prisión",24
+SPOA00014,"Allanamiento en Cúcuta el 3 de julio de 2025 por concierto para delinquir relacionado con organización dedicada al tráfico de migrantes.",Concierto para delinquir,"8 a 16 años de prisión",36
+SPOA00015,"Presentación de cargos por lesiones personales el 30 de mayo de 2025 en Santa Marta tras agresión en riña callejera con consecuencias graves.",Lesiones personales,"1 a 5 años de prisión",24
+SPOA00016,"Recuperación de bienes y detención el 27 de septiembre de 2025 en Villavicencio en caso de violencia sexual contra menor de edad.",Violencia sexual,"10 a 30 años de prisión",36
+SPOA00017,"Incautación de estupefacientes durante allanamiento realizado en Sincelejo el 15 de enero de 2025. Fiscalía acusa a capturado por tráfico de estupefacientes.",Tráfico de estupefacientes,"10 a 30 años de prisión",36
+SPOA00018,"Denuncia por omisión de denuncia presentada el 2 de abril de 2025 en Floridablanca, caso en estudio por posible encubrimiento.",Omisión de denuncia,"6 meses a 2 años de prisión",12
+SPOA00019,"Operativo policial el 20 de junio de 2025 en Neiva para desmantelar red de utilización ilícita de redes de comunicación para extorsión.",Utilización ilícita de redes de comunicación,"2 a 6 años de prisión",24
+SPOA00020,"Caso judicial por daño en bien ajeno abierto el 8 de octubre de 2025 en Armenia tras destrucción intencional de propiedad privada.",Daño en bien ajeno,"6 meses a 3 años de prisión",18
+SPOA00021,"Medida de aseguramiento impuesta el 15 de febrero de 2025 en Bogotá por prevaricato contra funcionario público implicado en otorgamiento irregular de contratos.",Prevaricato,"6 a 12 años de prisión",36
+SPOA00022,"Investigación en Montería iniciada el 9 de noviembre de 2025 por falsedad documental en documentos oficiales.",Falsedad documental,"2 a 5 años de prisión",24
+SPOA00023,"Incautación de armas y detención el 12 de mayo de 2025 en Popayán por amenazas a líderes sociales.",Amenazas,"1 a 4 años de prisión",18
+SPOA00024,"Judicialización en Cúcuta el 27 de julio de 2025 por tráfico ilegal de armas de fuego en zonas urbanas.",Tráfico de armas,"5 a 12 años de prisión",36
+SPOA00025,"Fiscalía imputa cargos el 14 de marzo de 2025 por fraude procesal en proceso civil.",Fraude procesal,"1 a 4 años de prisión",18
+SPOA00026,"Detención por abandono de menores el 10 de octubre de 2025 en Ibagué. Autoridades toman medidas de protección y proceso judicial está en curso.",Abandono de menores,"6 meses a 3 años de prisión",18
+SPOA00027,"Denuncia de extorsión presentada el 23 de abril de 2025 en Valledupar con testimonios que implican a banda criminal organizada.",Extorsión,"8 a 16 años de prisión",36
+SPOA00028,"Captura en flagrancia el 5 de diciembre de 2025 en Tunja por hechos relacionados con cohecho pasivo.",Cohecho,"4 a 8 años de prisión",24
+SPOA00029,"Investigación penal iniciada el 1 de enero de 2025 en Montería por delito de receptación de mercancías ilegales.",Receptación,"3 a 6 años de prisión",24
+SPOA00030,"Audiencia de acusación el 11 de enero de 2025 en Pasto por homicidio culposo en accidente de tránsito.",Homicidio,"8 a 20 años de prisión",36
+SPOA00031,"Caso judicial de lavado de activos iniciado el 8 de agosto de 2025 en Valledupar tras análisis financiero sospechoso.",Lavado de activos,"8 a 20 años de prisión",36
+SPOA00032,"Medida cautelar por amenazas durante proceso en Cartagena el 19 de febrero de 2025.",Amenazas,"1 a 4 años de prisión",18
+SPOA00033,"Investigación por violencia intrafamiliar abierta el 14 de noviembre de 2025 en Cúcuta con apoyo de medidas de protección.",Violencia intrafamiliar,"2 a 6 años de prisión",24
+SPOA00034,"Recuperación e investigación por abuso de confianza iniciada el 30 de junio de 2025 en Medellín.",Abuso de confianza,"2 a 5 años de prisión",24
+SPOA00035,"Denuncia formal por femicidio presentada el 5 de junio de 2025 en Bucaramanga. Fiscalía facilita protección a familia de la víctima.",Femicidio,"20 a 60 años de prisión",36
+SPOA00036,"Caso de corrupción pública descubierto el 12 de septiembre de 2025 en Bogotá con diversas pruebas documentales.",Corrupción,"5 a 15 años de prisión",36
+SPOA00037,"Proceso judicial por daño en bien ajeno iniciado el 28 de febrero de 2025 en Barranquilla.",Daño en bien ajeno,"6 meses a 3 años de prisión",18
+SPOA00038,"Investigación por hurto presentadas el 17 de mayo de 2025 en Floridablanca con reclamos de múltiples afectados.",Hurto,"1 a 4 años de prisión",24
+SPOA00039,"Medidas judiciales por calumnia iniciadas el 26 de enero de 2025 en Manizales tras difusión de información falsa.",Calumnia,"6 meses a 2 años de prisión",12
+SPOA00040,"Proceso por tráfico de estupefacientes abierto el 10 de octubre de 2025 en Villavicencio con intervención policial significativa.",Tráfico de estupefacientes,"10 a 30 años de prisión",36
+SPOA00041,"Denuncia por omisión de denuncia presentada el 15 de junio de 2025 en Santa Marta implicando particulares y funcionarios.",Omisión de denuncia,"6 meses a 2 años de prisión",12
+SPOA00042,"Judicialización por daño en bien ajeno el 29 de noviembre de 2024 en Cartagena.",Daño en bien ajeno,"6 meses a 3 años de prisión",18
+SPOA00043,"Recuperación y medidas legales por amenazas iniciadas el 4 de marzo de 2025 en Riohacha.",Amenazas,"1 a 4 años de prisión",18
+SPOA00044,"Investigación por prevaricato iniciada el 18 de agosto de 2025 en Neiva.",Prevaricato,"6 a 12 años de prisión",36
+SPOA00045,"Caso de lesiones personales documentado el 30 de septiembre de 2025 en Armenia.",Lesiones personales,"1 a 5 años de prisión",24
+SPOA00046,"Fiscalía judicializa caso de extorsión el 11 de enero de 2025 en Montería.",Extorsión,"8 a 16 años de prisión",36
+SPOA00047,"Denuncia por falsedad documental presentada el 23 de diciembre de 2024 en Sincelejo.",Falsedad documental,"2 a 5 años de prisión",24
+SPOA00048,"Detención por delito informático en Bogotá el 26 de mayo de 2025 tras allanamiento a oficinas.",Delito informático,"3 a 6 años de prisión",24
+SPOA00049,"Imputación de cargos por cohecho el 7 de julio de 2025 en Cali.",Cohecho,"4 a 8 años de prisión",24
+SPOA00050,"Allanamiento judicial con resultados de acoso sexual ocurrido el 15 de mayo de 2025 en Pereira.",Acceso carnal violento,"16 a 40 años de prisión",36
